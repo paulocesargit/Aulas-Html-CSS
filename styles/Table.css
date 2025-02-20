@@ -1,0 +1,22 @@
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: auto;
+  background-color: aliceblue;
+}
+
+table {
+  width: 300px;
+}
+
+body {
+  background-color: blue;
+}
+
+h1 {
+  text-align: center;
+  background: fixed;
+  background-color: white;
+}
